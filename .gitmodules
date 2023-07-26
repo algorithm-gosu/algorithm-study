@@ -1,0 +1,6 @@
+[submodule "algorithm-study-jh"]
+	path = algorithm-study-jh
+	url = https://github.com/JHPark02/algorithm-study-jh
+[submodule "AlgorithmStudyJB"]
+	path = AlgorithmStudyJB
+	url = https://github.com/ljb100/AlgorithmStudyJB
